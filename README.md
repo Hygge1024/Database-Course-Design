@@ -6,3 +6,5 @@ src/Work_Model/DateOperator.java :对数据库内容操作语句
 src/Work_Model/Operatetest1.java :连接数据库的语句
 src/Work_Model/Service.java :配合DateOperator.java使用的语句
 src/Work_View/用于存放视图的文件
+
+![Uploading image.png…]()
